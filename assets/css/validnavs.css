@@ -1985,7 +1985,7 @@ nav.navbar.validnavs.brand-center {
 @media (max-width: 1023px) {
 	a.navbar-brand {
 		position: absolute;
-		left: 50%;
+		right: 0%;
 		transform: translate(-50%, -50%);
 		top: 50%;
 	}
