@@ -2661,7 +2661,7 @@ button i {
 	top: 0;
 	width: 100%;
 	text-align: center;
-	background: var(--color-primary);
+	
 	padding: 25px 5px;
 }
 
